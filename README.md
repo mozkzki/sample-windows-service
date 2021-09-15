@@ -1,4 +1,5 @@
-# win_service_sample
+# sample-windows-service
+
 windows service sample program.
 
 ### Monitoring
